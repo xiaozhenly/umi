@@ -1,0 +1,32 @@
+{
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "aiXcoder.showTrayIcon": true,
+  "aiXcoder.aggressiveIdentifier": true,
+  "editor.tabSize": 2,
+  "aiXcoder.kiteIntegration": "show Kite",
+  "aiXcoder.searchIntegratedWindow": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.validate": ["javascript", "html"],
+  "files.eol": "\n",
+  "Codegeex.DisabledFor": {
+    "html": true
+  },
+  "editor.fontSize": 20,
+  "oneDarkPro.bold": false,
+  "oneDarkPro.vivid": false,
+  "oneDarkPro.markdownStyle": true,
+  "oneDarkPro.editorTheme": "One Dark Pro",
+  "editor.fontLigatures": false,
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.tabCompletion": "on",
+  "editor.acceptSuggestionOnEnter": "smart",
+  "liveServer.settings.port": 5501,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "prettier.singleQuote": true,
+  "prettier.vueIndentScriptAndStyle": true
+}
